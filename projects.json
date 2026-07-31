@@ -1,8 +1,8 @@
 [
   {
-    "name": "FraudShield",
+    "name": "Medical Billing",
     "desc": "Credit card fraud is a major concern for both consumers and financial institutions.",
-    "image": "FRAUDSHIELD",
+    "image": "https://img.magnific.com/free-psd/summer-special-fashion-sale-web-banner-template_120329-1506.jpg?semt=ais_hybrid&w=740&q=80",
     "category": "ML",
     "links": {
       "view": "https://github.com/Annapoornaaradhya/FRAUDSHIELD",
